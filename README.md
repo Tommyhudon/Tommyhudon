@@ -1,6 +1,5 @@
 # Hello there 👋
 
-- 👀 I’m interested in React
 - 💻 I am currently working on warhammer-battle. A battle simulator for warhammer AoS fans.
 - 🌱 I’m currently learning React/Redux. 
 - 📫 How to reach me hudontommy@gmail.com
