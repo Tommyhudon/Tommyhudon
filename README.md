@@ -6,7 +6,7 @@
 
 ***
 
-![Tommyhudon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommyhudon&count_private=true&show_icons=true&theme=radical)
+![Tommyhudon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommyhud&count_private=true&show_icons=true&theme=radical)
 
 ***
 
