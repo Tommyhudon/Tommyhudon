@@ -1,6 +1,6 @@
 # Hello there 👋
 
-- 💻 I am currently working on warhammer-battle. A battle simulator for warhammer AoS fans.
+- 💻 I am currently working on react-stock-market-app. An app to display stock market and crypto datas on nice graph.
 - 🌱 I’m currently learning React/Redux. 
 - 📫 How to reach me hudontommy@gmail.com
 
